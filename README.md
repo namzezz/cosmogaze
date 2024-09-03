@@ -37,12 +37,3 @@ This screen shows information about astronomical objects such as constellations,
 Navigation, location parsing, and general theming of the app were all developed as part of this project.
 
 
-<<<<<<< HEAD
-<h2>Team members:</h2>
-Herman
-Adal
-Per Ellef
-Dawid
-Henriette
-=======
->>>>>>> 2ab0286 (cosmogaze)
