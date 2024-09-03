@@ -13,7 +13,7 @@ import org.json.JSONObject
  */
 object GoogleMaps {
     // Provide your own api key here, it also needs to be set inside AndroidManifest.xml
-    private const val apiKey = ""
+    private const val apiKey = "AIzaSyBs55zzU07OAmEmqqgHRmGEjAzFNXOptAk"
     /**
      * @return [LocationDescription] data class based on the response of the google places API
      * of querying with the [location] parameter. If [location] is an empty string return null.
